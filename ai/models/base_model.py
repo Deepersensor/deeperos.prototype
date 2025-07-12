@@ -1,0 +1,3 @@
+"""
+Base AI model definitions.
+"""
